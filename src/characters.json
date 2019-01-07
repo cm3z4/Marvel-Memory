@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Captian America",
+      "image": "img/capamerica.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dare Devil",
+      "image": "img/ddevil.png"
+    },
+    {
+      "id": 3,
+      "name": "Loki",
+      "image": "img/loki.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Punisher",
+      "image": "img/punisher.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Rocket",
+      "image": "img/rocket.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Rogue",
+      "image": "img/rogue.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Spiderman",
+      "image": "img/spiderman.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Tony Stark",
+      "image": "img/stark.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Starlord",
+      "image": "img/starlord.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Thanos",
+      "image": "img/thanos.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Deadpool",
+      "image": "img/deadpool.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Venom",
+      "image": "img/venom.jpg"
+    }
+  ]
