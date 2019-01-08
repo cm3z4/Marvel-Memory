@@ -21,11 +21,23 @@ class App extends Component {
       clickedArr: this.state.clickedArr.concat(event),
       score: this.state.score + 1
     });
-    console.log(this.state.score);
+
     if (this.state.clickedArr.includes(event)) {
       console.log("Card has already been clicked!");
-      alert("You lose! Play again?")
+      alert("You lose! Play again?");
+      this.setState({
+        clickedArr: [],
+        score: 0
+      })
     };
+    
+    if (this.state.score === 11) {
+      alert("You won! Play again?");
+      this.setState({
+        clickedArr: [],
+        score: 0
+      })
+    }
   };
 
   // Map over this.state.friends and render a FriendCard component for each character object
@@ -33,7 +45,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Marvel Memory</Title>
-        
+
         {this.state.characters.map(character => (
           <CharacterCard
             id={character.id}
