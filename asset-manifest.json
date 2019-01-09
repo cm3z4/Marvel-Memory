@@ -1,15 +1,15 @@
 {
-  "main.css": "/cm3z4/Marvel-Memory/static/css/main.e536a639.chunk.css",
-  "main.js": "/cm3z4/Marvel-Memory/static/js/main.e7dbf0c2.chunk.js",
-  "main.js.map": "/cm3z4/Marvel-Memory/static/js/main.e7dbf0c2.chunk.js.map",
-  "static/css/1.c0933b40.chunk.css": "/cm3z4/Marvel-Memory/static/css/1.c0933b40.chunk.css",
-  "static/js/1.9b8a12ed.chunk.js": "/cm3z4/Marvel-Memory/static/js/1.9b8a12ed.chunk.js",
-  "static/js/1.9b8a12ed.chunk.js.map": "/cm3z4/Marvel-Memory/static/js/1.9b8a12ed.chunk.js.map",
-  "runtime~main.js": "/cm3z4/Marvel-Memory/static/js/runtime~main.6cc9e6f9.js",
-  "runtime~main.js.map": "/cm3z4/Marvel-Memory/static/js/runtime~main.6cc9e6f9.js.map",
-  "static/css/main.e536a639.chunk.css.map": "/cm3z4/Marvel-Memory/static/css/main.e536a639.chunk.css.map",
-  "static/css/1.c0933b40.chunk.css.map": "/cm3z4/Marvel-Memory/static/css/1.c0933b40.chunk.css.map",
-  "index.html": "/cm3z4/Marvel-Memory/index.html",
-  "precache-manifest.5b3d48f324d1f58e729d3e32ad77bef8.js": "/cm3z4/Marvel-Memory/precache-manifest.5b3d48f324d1f58e729d3e32ad77bef8.js",
-  "service-worker.js": "/cm3z4/Marvel-Memory/service-worker.js"
+  "main.css": "/Marvel-Memory/static/css/main.e536a639.chunk.css",
+  "main.js": "/Marvel-Memory/static/js/main.e7dbf0c2.chunk.js",
+  "main.js.map": "/Marvel-Memory/static/js/main.e7dbf0c2.chunk.js.map",
+  "static/css/1.c0933b40.chunk.css": "/Marvel-Memory/static/css/1.c0933b40.chunk.css",
+  "static/js/1.9b8a12ed.chunk.js": "/Marvel-Memory/static/js/1.9b8a12ed.chunk.js",
+  "static/js/1.9b8a12ed.chunk.js.map": "/Marvel-Memory/static/js/1.9b8a12ed.chunk.js.map",
+  "runtime~main.js": "/Marvel-Memory/static/js/runtime~main.cafc8407.js",
+  "runtime~main.js.map": "/Marvel-Memory/static/js/runtime~main.cafc8407.js.map",
+  "static/css/1.c0933b40.chunk.css.map": "/Marvel-Memory/static/css/1.c0933b40.chunk.css.map",
+  "static/css/main.e536a639.chunk.css.map": "/Marvel-Memory/static/css/main.e536a639.chunk.css.map",
+  "index.html": "/Marvel-Memory/index.html",
+  "precache-manifest.cb90be3f1cf769bd510bf3f3b4a5377a.js": "/Marvel-Memory/precache-manifest.cb90be3f1cf769bd510bf3f3b4a5377a.js",
+  "service-worker.js": "/Marvel-Memory/service-worker.js"
 }
