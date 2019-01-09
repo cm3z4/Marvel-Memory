@@ -2,7 +2,7 @@
   "name": "marvelmemory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cm3z4.github.io/marvelmemory",
+  "homepage": "https://cm3z4.github.io/Marvel-Memory/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
