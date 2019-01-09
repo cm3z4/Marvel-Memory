@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/marvelmemory/precache-manifest.b4efd981825582bdd29894f317f03a23.js"
+  "/Marvel-Memory/precache-manifest.cb90be3f1cf769bd510bf3f3b4a5377a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/marvelmemory/index.html", {
+workbox.routing.registerNavigationRoute("/Marvel-Memory/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
